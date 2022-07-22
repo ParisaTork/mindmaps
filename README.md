@@ -1,6 +1,8 @@
 # mindmaps
 Some mindmaps I've made after courses, which others may find useful.  
-- [Ultimate AWS Certified Developer Associate 2022 - Part 1 (WIP)](https://github.com/ParisaTork/mindmaps/blob/master/Ultimate%20AWS%20Certified%20Developer%20Associate%202022.pdf)
+- Ultimate AWS Certified Developer Associate 2022 (WIP)
+  - [Part 1](https://github.com/ParisaTork/mindmaps/blob/master/Ultimate%20AWS%20Certified%20Developer%20Associate%202022.pdf)
+  - [Part 2](https://github.com/ParisaTork/mindmaps/blob/master/Ultimate%20AWS%20Certified%20Developer%20Associate%202022%20-%20Part%202.pdf)
 - [An Agile Crash Course: Agile Project Management and Agile Delivery - Mauricio Rubio](https://learning.oreilly.com/videos/an-agile-crash/9781789533415) [(full mindmap)](https://github.com/ParisaTork/mindmaps/blob/master/agile%20crash%20course%20mindmap.pdf)
 - [Clean Code Fundamentals - Robert C.Martin](https://learning.oreilly.com/videos/clean-code-fundamentals/9780134661742/)
   - [Episode 1: Why does code rot?](https://github.com/ParisaTork/mindmaps/blob/master/Clean%20Code%20-%20Episode%201%20-%20Why%20does%20code%20rot%3F.pdf)
